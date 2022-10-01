@@ -38,7 +38,7 @@
   /* SMALL DEVICES */
   @media screen and (max-width: 600px) {
     .linked{
-        margin-left: 13rem;
+        margin-left: 10rem;
     }
   
     section {

@@ -31,7 +31,7 @@
 /* Media queries */
 @media screen and (max-width: 1024px) {
   .ssn{
-    margin-left: 7rem;
+    margin-left: 2rem;
     margin-top: 10rem;
   }
   .about{
