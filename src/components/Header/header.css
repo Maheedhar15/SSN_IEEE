@@ -7,7 +7,7 @@
   width: 320px;
   height: 270px;
   border-radius: 2rem;
-  margin-left: 14rem;
+  margin-left: 20rem;
 }
 
 .about {
@@ -26,4 +26,32 @@
 
 .about__ieee > p {
   margin: 0rem 4rem 0rem 4rem;
+}
+
+/* Media queries */
+@media screen and (max-width: 1024px) {
+  .ssn{
+    margin-left: 7rem;
+    margin-top: 10rem;
+  }
+  .about{
+    margin-left: 2rem;
+  }
+}
+
+/* SMALL DEVICES */
+@media screen and (max-width: 600px) {
+  .about__ssn{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .ssn{
+    margin-left: 5rem;
+  }
+  .about{
+    margin-right: 1rem;
+  }
+  section {
+    margin-top: 6rem;
+  }
 }
