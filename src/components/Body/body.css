@@ -1,0 +1,19 @@
+.facultyimg {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 31.5rem;
+  margin-top: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.ieee_faculties {
+  text-align: center;
+  color: var(--color-primary);
+}
+
+.core__members {
+  text-align: center;
+  margin-top: 2.5rem;
+  color: var(--color-primary);
+}
