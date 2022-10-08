@@ -24,32 +24,32 @@
   margin-top: 4rem;
 }
 
-.about__ieee > p {
-  margin: 0rem 4rem 0rem 4rem;
+.about__ieee > h3 {
+  margin: 0rem 20rem 0rem 20rem;
 }
 
 /* Media queries */
 @media screen and (max-width: 1024px) {
-  .ssn{
+  .ssn {
     margin-left: 3rem;
     margin-top: 10rem;
   }
-  .about{
+  .about {
     margin-left: 2rem;
   }
 }
 
 /* SMALL DEVICES */
 @media screen and (max-width: 600px) {
-  .about__ssn{
+  .about__ssn {
     display: grid;
     grid-template-columns: 1fr;
   }
-  .ssn{
+  .ssn {
     margin-left: 3rem;
     margin-top: -1.5rem;
   }
-  .about{
+  .about {
     margin-right: 1rem;
     margin-top: 2rem;
   }

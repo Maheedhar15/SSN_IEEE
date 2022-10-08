@@ -30,12 +30,11 @@ const Header = () => {
         </div>
         <div className="about__ieee">
           <h2>What do we do?</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus
-            enim dolorum aliquam expedita sit nulla itaque! Non eligendi
-            consequuntur nemo, aut ducimus fuga consequatur voluptatum, deserunt
-            nihil tenetur a assumenda?
-          </p>
+          <h3 className="about__ieee_text">
+            The primary purpose of IEEE student branch is to Inspire, Enable,
+            Empower and Energize our student members to enhance their technical
+            interests by providing them a platform to showcase their skills
+          </h3>
         </div>
       </div>
     </section>
