@@ -65,7 +65,7 @@
 /* Media queries */
 @media screen and (max-width: 1024px) {
   .faculty__card{
-    margin-left: 16.5rem;
+    margin-left: 19.5rem;
   }
   .facultyimg{
     margin-left: -2px;
@@ -78,7 +78,7 @@
 /* SMALL DEVICES */
 @media screen and (max-width: 600px) {
   .faculty__card{
-    margin-left: 8rem;
+    margin-left: 6.5rem;
     padding-right: 8rem;
   }
   .members__list{

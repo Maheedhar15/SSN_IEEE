@@ -1,0 +1,29 @@
+.brand-img {
+  width: 150px;
+  height: 40px;
+}
+
+.navbar {
+  margin-top: 4rem;
+  background: transparent;
+  display: flex;
+}
+
+.images {
+  display: flex;
+}
+
+.brand-img-ssn {
+  width: 80px;
+  height: 40px;
+}
+
+.links {
+  margin-left: 95rem;
+  display: flex;
+}
+
+.profile__icon {
+  width: 90px;
+  height: 35px;
+}

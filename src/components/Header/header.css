@@ -31,7 +31,7 @@
 /* Media queries */
 @media screen and (max-width: 1024px) {
   .ssn{
-    margin-left: 2rem;
+    margin-left: 3rem;
     margin-top: 10rem;
   }
   .about{
@@ -46,10 +46,12 @@
     grid-template-columns: 1fr;
   }
   .ssn{
-    margin-left: 5rem;
+    margin-left: 3rem;
+    margin-top: -1.5rem;
   }
   .about{
     margin-right: 1rem;
+    margin-top: 2rem;
   }
   section {
     margin-top: 6rem;
